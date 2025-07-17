@@ -1,2 +1,2 @@
-# face-object-detection
-Object using Opencv project
+# face&object detection
+using Opencv Python library in project
