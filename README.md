@@ -1,2 +1,2 @@
 # face-object-detection
-detect Face&amp;Object using Opencv project
+Object using Opencv project
